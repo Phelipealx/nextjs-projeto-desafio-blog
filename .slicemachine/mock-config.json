@@ -1,0 +1,20 @@
+{
+  "_cts": {
+    "posts": {
+      "banner": {
+        "content": "https://images.unsplash.com/photo-1499951360447-b19be8fe80f5"
+      },
+      "content": {
+        "body": {
+          "config": {
+            "patternType": "PARAGRAPH",
+            "blocks": 1
+          }
+        }
+      }
+    }
+  },
+  "slices": {
+    "Teste": {}
+  }
+}
